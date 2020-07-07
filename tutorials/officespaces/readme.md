@@ -10,6 +10,6 @@ Required commercial plugins
 * [Query Elements)[https://goose.studio/products/query-elements)
 * [Advanced Elements)[https://goose.studio/products/advanced-elements)
 * [Elementor Pro)[https://elementor.com)
-
+* [Advanced Custom Fields Pro)[https://advancedcustomfields.com)
 
 In this folder you will find exports of the various parts of the example site. Import these using the respective plugin. Name of file indicate which plugin should be used.
